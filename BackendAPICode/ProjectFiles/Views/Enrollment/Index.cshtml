@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model IEnumerable<MovieRatingAppBackEnd.Models.Enrollment>
+
+<h2>Enrollments</h2>
+<a asp-action="Create" class="btn btn-primary">Enroll Student</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Student</th>
+            <th>Course</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var e in Model)
+        {
+            <tr>
+                <td>@e.Student?.Name</td>
+                <td>@e.Course?.Name</td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@e.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

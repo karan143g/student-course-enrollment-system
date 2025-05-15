@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\views\\enrollment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\views\\enrollment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\views\\enrollment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\views\\enrollment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\migrations\\20250511173808_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\migrations\\20250511173808_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\views\\enrollment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\views\\enrollment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|d:\\reactmovieapp\\movieappbackend\\movieratingappbackend\\movieratingappbackend\\movieratingappbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCAA2080-6759-40E3-84BA-7F3A3C55DAD3}|MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj|solutionrelative:movieratingappbackend\\movieratingappbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Program.cs",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Program.cs",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:08:34.765Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\appsettings.json",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\appsettings.json",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T08:17:20.325Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Models\\Student.cs",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Models\\Student.cs",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:22:07.918Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Models\\Enrollment.cs",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:10:40.762Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Models\\Course.cs",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Models\\Course.cs",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:09:52.304Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAowFYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:42:24.503Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:24:38.539Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:17:58.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:17:03.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Enrollment\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Views\\Enrollment\\Index.cshtml",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Enrollment\\Index.cshtml",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Views\\Enrollment\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T17:22:41.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Enrollment\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Views\\Enrollment\\Delete.cshtml",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Enrollment\\Delete.cshtml",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Views\\Enrollment\\Delete.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T17:24:08.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:38:47.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250511173808_initial.cs",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Migrations\\20250511173808_initial.cs",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Migrations\\20250511173808_initial.cs",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Migrations\\20250511173808_initial.cs",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Migrations\\20250511173808_initial.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:38:08.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T17:24:57.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Enrollment\\Create.cshtml",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Views\\Enrollment\\Create.cshtml",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Enrollment\\Create.cshtml",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Views\\Enrollment\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T17:23:28.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Course\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Views\\Course\\Delete.cshtml",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Course\\Delete.cshtml",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Views\\Course\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T17:21:08.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Views\\Course\\Create.cshtml",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T17:19:56.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T17:17:24.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T17:08:15.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T17:10:47.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MovieRatingAppBackEnd.csproj",
+              "DocumentMoniker": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj",
+              "RelativeDocumentMoniker": "MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj",
+              "ToolTip": "D:\\ReactMovieApp\\MovieAppBackend\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj",
+              "RelativeToolTip": "MovieRatingAppBackEnd\\MovieRatingAppBackEnd.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T07:14:12.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
