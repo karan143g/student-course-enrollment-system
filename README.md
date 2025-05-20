@@ -1,16 +1,14 @@
-# 🎓 Student-Course Enrollment Management System
+# Student-Course Enrollment Management System
 
 A simple full-stack web application for managing students, courses, and their enrollments.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Frontend:** React, Bootstrap, Axios, React Router
 - **Backend:** ASP.NET Core Web API, Entity Framework Core
 - **Database:** SQL Server
 
-## 🚀 Getting Started
-
-### 📦 Backend Setup
+### Backend Setup
 
 1. Navigate to the backend folder:
    ```bash
@@ -23,7 +21,7 @@ A simple full-stack web application for managing students, courses, and their en
 4. Start the API:
     ```bash
    dotnet run
-### 🌐 Frontend Setup
+### Frontend Setup
 1. Navigate to the frontend folder:
     ```bash
    cd client
@@ -34,7 +32,7 @@ A simple full-stack web application for managing students, courses, and their en
     ```bash
    npm start
     
-✨ Features
+### Features
 Add, edit, delete students and courses
 Enroll students into courses
 View all enrollments
