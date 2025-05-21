@@ -9,56 +9,7 @@ namespace MovieRatingAppBackEnd.Controllers
     [ApiController]
     public class StudentController : ControllerBase
     {
-        //private readonly AppDbContext _studentDbContext;
-
-        //public StudentController(AppDbContext studentDbContext)
-        //{
-        //    _studentDbContext = studentDbContext;
-        //}
-
-        //[HttpGet]
-        //[Route("GetStudent")]
-        //public async Task<IEnumerable<Student>> GetStudents()
-        //{
-        //    return await _studentDbContext.Student.ToListAsync();
-        //}
-
-        //[HttpPost]
-        //[Route("AddStudent")]
-        //public async Task<Student> AddStudent(Student student)
-        //{
-        //    _studentDbContext.Student.Add(student);
-        //    await _studentDbContext.SaveChangesAsync();
-        //    return student;
-        //}
-
-        //[HttpPatch]
-        //[Route("UpdateStudent/{id}")]
-        //public async Task<Student> UpdateStudent(Student student)
-        //{
-        //    _studentDbContext.Entry(student).State = EntityState.Modified;
-        //    await _studentDbContext.SaveChangesAsync();
-        //    return student;
-        //}
-
-        //[HttpDelete]
-        //[Route("DeleteStudent/{id}")]
-        //public bool DeleteStudent(int id) 
-        //{
-        //    bool a = false;
-        //    var student = _studentDbContext.Student.Find(id);
-        //    if (student != null)
-        //    {
-        //        a = true;
-        //        _studentDbContext.Entry(student).State = EntityState.Deleted;
-        //        _studentDbContext.SaveChanges();
-        //    }
-        //    else
-        //    {
-        //        a = false;
-        //    }
-        //    return a; 
-        //}
+    
         private readonly AppDbContext _context;
 
         public StudentController(AppDbContext context)
